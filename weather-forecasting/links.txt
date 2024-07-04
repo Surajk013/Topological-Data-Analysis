@@ -1,0 +1,5 @@
+github : https://github.com/Surajk013/Topological-Data-Analysis.git
+
+Sheets : https://drive.google.com/drive/folders/1I2Ts9invXOxXPI9gSaBDzGIr8SSPGJ5c
+
+Referred Research Paper for basline project orientation and founational insights : https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.667963/full
